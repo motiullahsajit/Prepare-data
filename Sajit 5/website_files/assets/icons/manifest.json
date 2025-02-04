@@ -1,0 +1,22 @@
+{
+  "short_name": "IZEA",
+  "name": "IZEA Marketplace",
+  "icons": [
+    {
+      "src": "/assets/appicons/icon-192x192-50a8c8709c6f6c7608611627fcd1cdeaea75e8e25a87711a6506b83bc5ed69e6.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/appicons/icon-512x512-5a511f827657cd99fa0cbc4fdaf474ad796c10e981602c4bb45d0b3b1807cc74.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#fff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000"
+}
