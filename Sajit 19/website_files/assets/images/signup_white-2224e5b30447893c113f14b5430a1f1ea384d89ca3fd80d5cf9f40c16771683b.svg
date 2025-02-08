@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="92px" viewBox="0 0 100 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>signup</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icone" sketch:type="MSArtboardGroup" transform="translate(-954.000000, -203.000000)" fill="#ffffff">
+            <g id="signup" sketch:type="MSLayerGroup" transform="translate(954.000000, 203.000000)">
+                <path d="M50,0.35004878 C22.3855556,0.35004878 0,22.952878 0,50.8367317 C0,67.6099024 8.10222222,82.4690244 20.5666667,91.6510732 C24.6022222,79.1256098 36.25,70.0703415 50,70.0703415 C63.7488889,70.0703415 75.3977778,79.1256098 79.4333333,91.6499512 C91.8977778,82.4690244 100,67.6099024 100,50.8367317 C100,22.952878 77.6144444,0.35004878 50,0.35004878 L50,0.35004878 Z M50,62.8573171 C39.4811111,62.8573171 30.9522222,54.2463415 30.9522222,43.6237073 C30.9522222,33.0010732 39.4811111,24.3912195 50,24.3912195 C60.52,24.3912195 69.0488889,33.0021951 69.0488889,43.6248293 C69.0488889,54.2474634 60.52,62.8573171 50,62.8573171 L50,62.8573171 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
