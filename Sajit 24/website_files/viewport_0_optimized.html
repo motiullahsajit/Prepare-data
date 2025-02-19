@@ -135,6 +135,57 @@
       })(window, document, "script", "dataLayer", "GTM-TC9PPCFW");
     </script>
     <!-- End Google Tag Manager -->
+    <style>
+      .faq-section {
+        padding: 40px 20px;
+        background-color: #f8f8f8;
+      }
+
+      .faq-container {
+        max-width: 900px;
+        margin: 0 auto;
+        text-align: left;
+        font-family: Arial, sans-serif;
+        color: #333;
+      }
+
+      .faq-section h2 {
+        font-size: 24px;
+        margin-bottom: 20px;
+      }
+
+      .faq-item {
+        border-bottom: 1px solid #ddd;
+        padding: 15px 0;
+      }
+
+      .faq-item h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+        color: #009bda;
+      }
+
+      .faq-item p {
+        font-size: 14px;
+        line-height: 1.6;
+      }
+
+      @media (max-width: 768px) {
+        .faq-section {
+          padding: 20px 10px;
+        }
+        .faq-container {
+          width: 100%;
+          padding: 0 5px;
+        }
+        .faq-item h3 {
+          font-size: 16px;
+        }
+        .faq-item p {
+          font-size: 13px;
+        }
+      }
+    </style>
   </head>
   <body class="body">
     <div
@@ -286,6 +337,7 @@
         </div>
       </div>
     </div>
+
     <section class="container-base">
       <div class="w-layout-grid blog-body-grid">
         <div
@@ -349,6 +401,32 @@
             </figure>
             <h2 id="serial-number">Serial Number</h2>
           </div>
+        </div>
+      </div>
+    </section>
+    <section class="faq-section">
+      <div class="faq-container">
+        <h2>Frequently Asked Questions</h2>
+        <div class="faq-item">
+          <h3>What are the benefits of proper product traceability?</h3>
+          <p>
+            Effective traceability reduces recall costs, ensures regulatory
+            compliance, and helps maintain high quality standards.
+          </p>
+        </div>
+        <div class="faq-item">
+          <h3>How can I implement serialization in my workflow?</h3>
+          <p>
+            Decide on a numbering scheme, set up a database to track each item,
+            and integrate scanning or labeling tools in production.
+          </p>
+        </div>
+        <div class="faq-item">
+          <h3>Does Serial handle lot codes and part numbers?</h3>
+          <p>
+            Yes, it supports multiple forms of identification, including lot
+            codes, serial numbers, and custom part identifiers.
+          </p>
         </div>
       </div>
     </section>

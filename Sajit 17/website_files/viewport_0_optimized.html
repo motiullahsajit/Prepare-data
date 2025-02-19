@@ -25,6 +25,72 @@
     <link href="css/aos.css" rel="stylesheet" />
     <!-- Template Main CSS File -->
     <link href="css/style.css" rel="stylesheet" />
+    <style>
+      .cyber-wales-cta {
+        background: #202020;
+        color: #fff;
+        padding: 60px 20px;
+        text-align: center;
+      }
+
+      .cta-container {
+        max-width: 800px;
+        margin: 0 auto;
+      }
+
+      .cyber-wales-cta h2 {
+        font-size: 28px;
+        margin-bottom: 15px;
+      }
+
+      .cyber-wales-cta p {
+        font-size: 16px;
+        line-height: 1.6;
+        margin-bottom: 30px;
+      }
+
+      .cta-form {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+      }
+
+      .cta-form input[type="email"] {
+        padding: 12px;
+        font-size: 14px;
+        border: none;
+        outline: none;
+        border-radius: 4px;
+        width: 300px;
+        max-width: 100%;
+      }
+
+      .cta-form button {
+        background: #33abd3;
+        color: #fff;
+        border: none;
+        padding: 12px 20px;
+        font-size: 14px;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background 0.3s;
+      }
+
+      .cta-form button:hover {
+        background: #26a1c1;
+      }
+
+      @media (max-width: 600px) {
+        .cyber-wales-cta h2 {
+          font-size: 22px;
+        }
+
+        .cta-form input[type="email"] {
+          width: 100%;
+        }
+      }
+    </style>
   </head>
   <body data-aos-delay="0" data-aos-duration="1000" data-aos-easing="ease">
     <header class="header-transparent" id="header">
@@ -78,6 +144,20 @@
             </h2>
           </div>
         </div>
+      </div>
+    </section>
+    <section class="cyber-wales-cta">
+      <div class="cta-container">
+        <h2>Join the Cyber Wales Community</h2>
+        <p>
+          Stay updated with the latest news, events, and resources from the
+          Cyber Wales network. Subscribe to our mailing list and be part of a
+          thriving cyber security ecosystem.
+        </p>
+        <form class="cta-form">
+          <input type="email" placeholder="Your Email" required />
+          <button type="submit">Subscribe</button>
+        </form>
       </div>
     </section>
     <div
