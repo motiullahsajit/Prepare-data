@@ -5822,7 +5822,7 @@ h1.video-header {
 .ipwg-instrument .button.buy {
   background-color: #53a642;
 }
-
+/* <!-- Start of Annotator Edits -->  */
 .site-footer {
   background-color: #33abd3;
   color: #fff;
@@ -5900,3 +5900,4 @@ h1.video-header {
     margin: 5px 0;
   }
 }
+/* <!-- End of Annotator Edits --> */

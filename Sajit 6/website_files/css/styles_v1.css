@@ -923,7 +923,7 @@ body {
     width: calc(100vw - 100px);
   }
 }
-
+/* <!-- Start of Annotator Edits -->  */
 .site-footer {
   background-color: #702e90;
   color: #ffffff;
@@ -953,3 +953,4 @@ body {
 .footer-nav a:hover {
   text-decoration: underline;
 }
+/* <!-- End of Annotator Edits --> */
